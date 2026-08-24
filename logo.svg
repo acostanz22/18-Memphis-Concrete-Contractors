@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 130" role="img" aria-label="Memphis Concrete Contractors">
+  <g fill="none" fill-rule="evenodd">
+    <g transform="translate(8, 5)">
+      <rect x="52" y="22" width="12" height="52" rx="2" fill="#777"/><path d="M64 30 L98 18 L94 38 L64 46 Z" fill="#d97706"/><ellipse cx="44" cy="92" rx="28" ry="10" fill="#aaa"/>
+    </g>
+    <line x1="138" y1="18" x2="138" y2="112" stroke="#d97706" stroke-width="3" stroke-linecap="round" opacity="0.35"/>
+    <g font-family="Arial Black, Helvetica Neue, Arial, sans-serif" text-anchor="start">
+      <text x="150" y="72" font-size="34" font-weight="800" fill="#1f1f1f" letter-spacing="0.8">MEMPHIS</text>
+      <text x="150" y="108" font-size="15" font-weight="700" fill="#d97706" letter-spacing="2.8">CONCRETE CONTRACTORS</text>
+    </g>
+  </g>
+</svg>
